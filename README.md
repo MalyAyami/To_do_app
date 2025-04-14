@@ -1,2 +1,2 @@
 # To_do_app
-Aplikacja typu to-do
+Aplikacja typu to-do, do dokończenia
